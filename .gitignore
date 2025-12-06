@@ -1,0 +1,12 @@
+# Ignore all data
+data/
+*.csv
+*.tsv
+*.zip
+
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore IDE clutter
+.vscode/
+.DS_Store
