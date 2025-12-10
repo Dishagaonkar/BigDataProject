@@ -1,0 +1,436 @@
+{
+    "2005-2019_Graduation_Rates_Borough_-_All.csv": {
+        "natural_language_queries": [
+            "What is the dataset providing information on graduation rates in the Bronx?",
+            "Where can I find the graduation and dropout rates in the Bronx?",
+            "I need a dataset on high school graduation outcomes in the Bronx.",
+            "What dataset includes graduation, dropout and advanced regents diploma rates in the Bronx?",
+            "I am looking for a dataset that includes the graduation rates and diplomas in the Bronx.",
+            "Find a dataset on high school graduation rates and diplomas in the Bronx.",
+            "What is the dataset on high school graduation, dropout and diplomas in the Bronx?",
+            "Find a dataset on high school graduation, dropout and diplomas for the Bronx over the years 2006-2015.",
+            "Where can I find the high school graduation rates and diplomas for the Bronx?",
+            "I'm looking for a dataset on high school graduation and diplomas in the Bronx from 2006 to 2015."
+        ]
+    },
+    "2005_-_2017_Quality_Review_Ratings.csv": {
+        "natural_language_queries": [
+            "Which dataset contains overall school performance evaluations and individual question scores?",
+            "Where can I find a dataset with school evaluation metrics, including overall ratings and individual question scores?",
+            "Which dataset includes school evaluation data for the academic year 2005-2006?",
+            "Where can I find a dataset with school evaluation scores for questions labeled qs1_1 to qs5_7?",
+            "Which dataset contains school evaluation data with columns for startdate, overall, and various question scores?",
+            "Where can I find a dataset with school evaluation ratings and individual question scores from 2006?",
+            "Which dataset includes school evaluation data with overall ratings and individual question scores for multiple categories?",
+            "Where can I find a dataset with school evaluation metrics, including overall ratings and individual question scores for 2006?",
+            "Which dataset contains school evaluation data with columns for various question scores and overall ratings for each category?",
+            "Where can I find a dataset with school evaluation scores, including overall ratings and individual question scores from 2006?"
+        ]
+    },
+    "2006-07_Class_Size_-_By_Borough.csv": {
+        "natural_language_queries": [
+            "What is the average class size for gifted and talented programs in Brooklyn?",
+            "How does the average class size for general education programs vary by borough in New York?",
+            "What is the average class size for collaborative team teaching programs in Brooklyn?",
+            "How many core course high schools only are there in Queens?",
+            "What are the average class sizes for general education programs in Manhattan?",
+            "What is the distribution of program types across different boroughs in New York?",
+            "How does the average class size for gifted and talented programs in Queens compare to those in Brooklyn?",
+            "What is the average class size for special class programs in Manhattan?",
+            "How does the average class size for general education programs in Staten Island compare to other boroughs?",
+            "What are the core course high schools in Manhattan?"
+        ]
+    },
+    "2006-07_Class_Size_-_School-level_Detail.csv": {
+        "natural_language_queries": [
+            "Find datasets on school performance and student demographics",
+            "Data on educational programs and class sizes in schools",
+            "School data with teacher-to-student ratios and program information",
+            "Information on different schools, their programs, and class sizes",
+            "Dataset for analyzing trends and patterns in education",
+            "Data to evaluate educational initiatives and resource allocation in schools",
+            "School performance data including class sizes and teacher ratios",
+            "Dataset on educational programs and student demographics in schools",
+            "Information on school programs, class sizes, and teacher-to-student ratios",
+            "Data for making informed decisions about school resource allocation and policy"
+        ]
+    },
+    "2008_Public_Data_File_Gen_Ed.csv": {
+        "natural_language_queries": [
+            "What is the dataset containing information about New York City public schools including student and teacher demographics, survey responses, and performance metrics?",
+            "Where can I find a dataset with details on New York City public school surveys, including student, teacher, and parent responses?",
+            "Is there a dataset that includes student and teacher demographics, survey responses, and performance metrics for New York City public schools?",
+            "I need a dataset with information on New York City public school surveys, including student, teacher, and parent demographics and responses. Where can I find it?",
+            "Is there a dataset that contains New York City public school survey data, including student and teacher demographics, and performance metrics?",
+            "I am looking for a dataset with New York City public school survey data, including student, teacher, and parent responses. Can you help?",
+            "What is the dataset that includes New York City public school survey information, such as student, teacher, and parent demographics, and performance metrics?",
+            "Where can I find a dataset with New York City public school survey data, including student, teacher, and parent demographics, and responses?",
+            "Can you recommend a dataset that includes New York City public school survey information, such as student and teacher demographics, and performance metrics?",
+            "I am searching for a dataset that contains New York City public school survey data, including student, teacher, and parent demographics, and responses. Where can I find it?"
+        ]
+    },
+    "2009_-_2010_School_Attendance_And_Enrollment_By_District.csv": {
+        "natural_language_queries": [
+            "What is the year-to-date attendance and enrollment data for school districts?",
+            "Where can I find the average attendance and enrollment for different school districts?",
+            "I need a dataset with school districts' year-to-date attendance averages and enrollment numbers.",
+            "Can you provide a dataset that includes school district attendance and enrollment averages?",
+            "What is the year-to-date attendance and enrollment data for school districts?",
+            "Where can I find the average attendance and enrollment for different school districts?",
+            "I need a dataset with school districts' year-to-date attendance averages and enrollment numbers.",
+            "Can you provide a dataset that includes school district attendance and enrollment averages?",
+            "What is the year-to-date attendance and enrollment data for school districts?",
+            "Where can I find the average attendance and enrollment for different school districts?"
+        ]
+    },
+    "2009_District_75_Survey_Data.csv": {
+        "natural_language_queries": [
+            "What datasets are available for special education schools?",
+            "Where can I find data on academic expectations in special education schools?",
+            "I need a dataset that includes parent, student, and teacher perspectives on special education schools.",
+            "Can you provide a dataset with information on communication scores in special education schools?",
+            "What datasets include engagement scores for special education schools?",
+            "I'm looking for a dataset on safety and respect in special education schools.",
+            "Where can I find survey data for special education schools?",
+            "Can you provide a dataset with academic expectations, communication, engagement, and safety scores for special education schools?",
+            "I need a dataset that includes horizon academic, communication, and engagement scores for special education schools.",
+            "What datasets are available for analyzing the performance and environment of special education schools?"
+        ]
+    },
+    "2010-2011_Class_Size_-_Citywide_Summary.csv": {
+        "natural_language_queries": [
+            "What is the student enrollment data for different grades and programs?",
+            "Can you provide the dataset for student enrollment numbers by grade and program type?",
+            "I need data on the number of students enrolled in different grades and programs.",
+            "Where can I find the dataset that includes the number of students, class sizes, and program types for different grades?",
+            "I am looking for enrollment data by grade and program type, including the number of students and average class size.",
+            "Can you help me find the dataset that shows student enrollment trends across different grades and programs?",
+            "I need a dataset that includes the number of students, sections, and average class size for various grades and programs.",
+            "Can you provide the dataset that contains student enrollment statistics, including class sizes and program types for different grades?",
+            "I am looking for a dataset that includes student enrollment numbers and program types for grades 0K to 03.",
+            "Where can I find the dataset that includes student enrollment data, class sizes, and program types, such as GEN ED, CTT, and G&T?"
+        ]
+    },
+    "2010_D75_Survey_Data.csv": {
+        "natural_language_queries": [
+            "What is the enrollment in P.S. 368 in Brooklyn?",
+            "How many students are enrolled in P.S. K004?",
+            "Which schools in Brooklyn have the highest student survey response rates?",
+            "What are the safety scores for P.S. 370 in Brooklyn?",
+            "How do the academic performance metrics compare across different schools in Brooklyn?",
+            "What is the teacher survey response rate for P.S. K036?",
+            "Which schools in Brooklyn have the highest student engagement scores?",
+            "What are the academic performance metrics for P.S. 369 in Brooklyn?",
+            "What are the survey results for P.S. K053 in Brooklyn?",
+            "Which schools in Brooklyn have the highest overall student satisfaction scores?"
+        ]
+    },
+    "2010_Gen_Ed_Survey_Data.csv": {
+        "natural_language_queries": [
+            "Where can I find data on student survey results and performance metrics for schools in Manhattan?",
+            "Where can I find information about school enrollment numbers and student survey results in Manhattan?",
+            "Are there datasets available on the performance metrics and student outcomes of schools in Manhattan?",
+            "Can I find data on the student survey responses and performance metrics of schools in Manhattan?",
+            "What datasets include information about the enrollment numbers, student survey results, and performance metrics of schools in Manhattan?",
+            "Where can I access data on the student survey responses and performance metrics for various schools in Manhattan?",
+            "Are there datasets available that provide details on the performance metrics and student survey results of schools in Manhattan?",
+            "Where can I find datasets containing information about the performance metrics and student survey results of schools in Manhattan?",
+            "What datasets include information on the enrollment numbers, student survey results, and performance metrics of schools in Manhattan?",
+            "Can I find datasets that provide data on the performance metrics and student survey results of schools in Manhattan?"
+        ]
+    },
+    "2011_-_2016_Demographic_Snapshot.csv": {
+        "natural_language_queries": [
+            "What is the school enrollment dataset for New York City schools?",
+            "Where can I find data on the total number of students in each grade for P.S. 015 Roberto Clemente?",
+            "How many students are enrolled in each grade at P.S. 019 Asher Levy for the 2011-12 academic year?",
+            "Can you provide demographic information on students, including gender, race, and socioeconomic status, for P.S. 015 Roberto Clemente and P.S. 019 Asher Levy from 2011 to 2016?",
+            "What is the dataset that tracks the number of female and male students in various schools over the years?",
+            "I need data on the enrollment trends for schools in New York City from 2011 to 2016. Where can I find this information?",
+            "What dataset includes the number of students with disabilities and English language learners in New York City schools?",
+            "Can you provide a dataset that shows the number of students in each grade for P.S. 015 Roberto Clemente and P.S. 019 Asher Levy from 2011 to 2016?",
+            "Where can I find information on the percentage of students in poverty for P.S. 015 Roberto Clemente and P.S. 019 Asher Levy from 2011 to 2016?",
+            "I am looking for a dataset that provides detailed enrollment information for New York City schools, including demographic data. What is the best source for this information?"
+        ]
+    },
+    "2012-2013_CLASS_SIZE_REPORT_BOROUGH_LEVEL_DETAIL.csv": {
+        "natural_language_queries": [
+            "What is the average class size for kindergarten students in the 'GEN ED' program?",
+            "How many students are enrolled in the 'CTT' program for grade 01?",
+            "What is the total number of sections for grade 03 in the 'GEN ED' program?",
+            "Compare the average class sizes for 'GEN ED' and 'G&T' programs across all grades.",
+            "How many students are enrolled in kindergarten across all program types?",
+            "What is the number of sections for grade 02 in the 'CTT' program?",
+            "How does the average class size vary between 'GEN ED' and 'G&T' programs for grade 01?",
+            "What is the total number of students in the 'G&T' program for all kindergarten grades?",
+            "How many sections are there for the 'GEN ED' program in grade 03?",
+            "What is the average class size for the 'CTT' program in grade 02?"
+        ]
+    },
+    "2012-2013_CLASS_SIZE_REPORT_SCHOOL_LEVEL_DETAIL.csv": {
+        "natural_language_queries": [
+            "Where can I find data on student enrollment and class sizes in NYC schools?",
+            "What dataset includes information about school programs and student-teacher ratios in NYC?",
+            "Can I find a dataset with school performance metrics and class size data in NYC?",
+            "Is there a dataset that provides details on NYC school programs, including class sizes and student enrollment?",
+            "What dataset contains information about NYC schools, including student-teacher ratios and class sizes?",
+            "Can I find a dataset with details on NYC school programs, student enrollment, and class sizes?",
+            "What dataset includes metrics on NYC schools, such as class sizes, student enrollment, and program types?",
+            "Is there a dataset that provides information about NYC school performance, including student-teacher ratios and class sizes?",
+            "Can I find a dataset with data on NYC school programs, student-teacher ratios, and class sizes?",
+            "What dataset contains information about NYC schools, including class sizes, student enrollment, and teacher ratios?"
+        ]
+    },
+    "2012_-_2013_Transfer_High_School_Progress_Report.csv": {
+        "natural_language_queries": [
+            "What is the dataset containing information about the performance of various high schools, including their overall scores, grades, and rankings?",
+            "Where can I find a dataset with demographic information about students and their corresponding school performance metrics?",
+            "Is there a dataset that includes overall scores, grades, and rankings for different high schools along with student demographic data?",
+            "Can you help me find a dataset that contains school performance metrics like overall scores, grades, and rankings, along with student demographic information?",
+            "I need a dataset that includes data on student demographics, school performance, and various school metrics, can you help me find it?",
+            "Can you find a dataset that contains details about the performance of students in high schools, including their demographics and school scores?",
+            "Where can I find a dataset that compares the performance of different schools, including their overall scores, grades, and rankings, along with student demographic information?",
+            "Can anyone help me find a dataset that contains detailed information about school performance, including overall scores, grades, and rankings, and also includes student demographic data?",
+            "Do you know a dataset that includes different metrics for school performance, such as overall scores, grades, and rankings, as well as demographic information about the students?",
+            "I need a dataset that provides information about the performance of different schools, including their overall scores, grades, and rankings, along with student demographic data."
+        ]
+    },
+    "2012_-_2015_Historical_Daily_Attendance_By_School.csv": {
+        "natural_language_queries": [
+            "What is the daily attendance record of school 01M015 for the 2012-2013 school year?",
+            "Can I get the attendance data for school 01M015 from September 6, 2012, to September 21, 2012?",
+            "Show me the number of enrolled, present, and absent students in school 01M015 for 2012-2013.",
+            "What are the daily attendance figures for school 01M015 in September 2012?",
+            "How many students were released from school 01M015 daily from September 6, 2012, to September 21, 2012?",
+            "What is the attendance trend for school 01M015 in the 2012-2013 school year?",
+            "Can you provide the attendance data for each day from 2012-09-06 to 2012-09-21 for school 01M015?",
+            "Compare the number of present and absent students in school 01M015 for the 2012-2013 school year.",
+            "What are the daily enrolment, present, and absent figures for school 01M015 during the 2012-2013 school year?",
+            "Retrieve the released students data for school 01M015 from 2012-09-06 to 2012-09-21."
+        ]
+    },
+    "2012_D75_School_Survey_Data.csv": {
+        "natural_language_queries": [
+            "What dataset contains parent, teacher, and student response rates for schools?",
+            "Where can I find data on school safety and respect scores?",
+            "Is there a dataset with school communication scores?",
+            "What dataset includes school engagement scores?",
+            "Where can I find academic expectations scores for schools?",
+            "What dataset contains school survey response rates and scores?",
+            "Is there a dataset with school survey data including parent, teacher, and student responses?",
+            "Where can I find a dataset with school survey metrics like safety, communication, engagement, and academic expectations?",
+            "What dataset includes school survey response rates and various school performance indicators?",
+            "Is there a dataset with comprehensive school survey data for analysis and comparison?"
+        ]
+    },
+    "2013-2014_DOE_High_School_Programs.csv": {
+        "natural_language_queries": [
+            "What datasets are available for school programs including descriptions, admission requirements, and available seats?",
+            "Find datasets containing information about various school programs",
+            "Where can I find a dataset with details about school programs, admissions, and enrollment?",
+            "I need a dataset that includes school program descriptions, admission requirements, and seats available.",
+            "Show me datasets with information about school programs and their admission criteria.",
+            "What datasets can I use to analyze and compare different school programs?",
+            "Find datasets that include details about school programs, such as descriptions, admission requirements, and available seats.",
+            "I am looking for a dataset that provides information about school programs, including their descriptions, admission requirements, and available seats.",
+            "What datasets are available for analyzing trends and patterns in admissions and enrollment for school programs?",
+            "I need a dataset that contains information about school programs, including descriptions, admission requirements, and available seats, for educational policy and resource allocation decisions."
+        ]
+    },
+    "2013_-_2014_School_Locations.csv": {
+        "natural_language_queries": [
+            "Find datasets on New York schools with information about location, grades, principal, and contact details.",
+            "I'm looking for a dataset on New York school demographics, including locations, grades, and principal contact information.",
+            "Can you help me find a dataset on New York schools that includes details like location, grades, principal name, and contact numbers?",
+            "Where can I find a dataset with information about New York schools, including location, grades offered, principal name, and contact details?",
+            "I need a dataset on New York schools that includes details about the school location, grades offered, and principal contact information.",
+            "Can you provide a dataset on New York schools with information about their location, the grades they offer, and the principal's contact details?",
+            "I'm looking for a dataset that includes data on New York schools, specifically the location, grades offered, and principal's information.",
+            "Find a dataset on New York schools that includes the location, grades, principal name, and contact information.",
+            "I need a dataset with information about schools in New York, including the location, grades, and principal contact details.",
+            "Where can I find a dataset on New York schools with data on location, grades, principal name, and contact information?"
+        ]
+    },
+    "2014-2015_Arts_Survey_Data.csv": {
+        "natural_language_queries": [
+            "What is the School Survey dataset?",
+            "Where can I find information on school administrator work hours and responsibilities?",
+            "What data is available on the roles and responsibilities of school administrators?",
+            "How can I access survey responses from school administrators?",
+            "What does the School Survey dataset contain?",
+            "Where can I find data on the work patterns of school administrators?",
+            "What information is included in the School Survey dataset about educator needs?",
+            "How can I analyze the work hours of school administrators?",
+            "What data is available to inform policies for educators?",
+            "Where can I find support systems data for school administrators?"
+        ]
+    },
+    "2014-2015_School_Closure_Discharge_Reporting_-_Credit_Recovery.csv": {
+        "natural_language_queries": [
+            "What is the credit recovery data for students at the Legacy School for Integrated Studies?",
+            "Can you provide the credit recovery statistics for different age groups at the Legacy School for Integrated Studies?",
+            "I need data on the number of students in credit recovery programs by age at the Legacy School for Integrated Studies.",
+            "What are the demographics and credit recovery trends for students at the Legacy School for Integrated Studies?",
+            "Can you show me the credit recovery enrollment data by age group for the Legacy School for Integrated Studies?",
+            "I'm looking for a dataset on credit recovery programs at the Legacy School for Integrated Studies, with a breakdown by age.",
+            "What is the total number of students within each demographic involved in credit recovery at the Legacy School for Integrated Studies?",
+            "Can you find the dataset that shows the effectiveness of credit recovery programs by age at the Legacy School for Integrated Studies?",
+            "I need to analyze the credit recovery trends at the Legacy School for Integrated Studies by age group.",
+            "Can you provide the dataset that includes the number of students in credit recovery and the total number of students within each demographic at the Legacy School for Integrated Studies?"
+        ]
+    },
+    "2014-2015_VADIR_INCIDENTS-3.csv": {
+        "natural_language_queries": [
+            "What is the dataset for incidents of crime and violence in New York City public schools?",
+            "Where can I find data on homicides, sex offenses, robberies, and other crimes in NYC schools?",
+            "What dataset includes information on school safety incidents in New York City?",
+            "How can I access data on violent and criminal incidents in New York City public schools?",
+            "What dataset provides information on homicides and sex offenses in NYC schools?",
+            "Where can I find data on school safety incidents in New York City by district?",
+            "Is there a dataset on crime and violence in NYC public schools by school name?",
+            "What dataset includes information on violence and crime in NYC schools during 2014-2015?",
+            "Where can I find data on homicides, robberies, and other crimes in NYC schools during 2014-2015?",
+            "What dataset provides information on assaults, kidnappings, and other incidents in NYC schools?"
+        ]
+    },
+    "2014_-_2015_Arts_Reports.csv": {
+        "natural_language_queries": [
+            "Where can I find a dataset on graduation rates and student demographics across different school districts?",
+            "What dataset includes information on educational outcomes and trends across various school districts?",
+            "I need a dataset that compares graduation rates and student demographics in different school districts.",
+            "Can you provide a dataset that tracks educational performance and characteristics of schools across different districts?",
+            "What dataset includes data on the number of graduates, 8th-grade students, and teacher staffing by school district?",
+            "I'm looking for a dataset that shows the percentage of 8th-grade students that completed certain criteria by school district.",
+            "Where can I find a dataset that includes the number of full-time and part-time teachers in different school districts?",
+            "What dataset provides insights into the performance and characteristics of schools across various districts?",
+            "I need a dataset that allows for informed decision-making and resource allocation in education.",
+            "Can you provide a dataset that tracks progress over time in educational quality and student achievement across different school districts?"
+        ]
+    },
+    "2014_-_2015_DOE_High_School_Directory.csv": {
+        "natural_language_queries": [
+            "What are the high schools in New York City that focus on specific programs like music, film, or health sciences?",
+            "Can you provide information about the high schools in New York City that offer special programs or themes such as the arts or technology?",
+            "I'm looking for details about high schools in New York City that have unique academic programs or extracurricular activities.",
+            "Which high schools in New York City focus on preparing students for careers in specific fields such as health sciences or technology?",
+            "Can you list the high schools in New York City that have specialized programs or themes like film, music, or government and law?",
+            "What are the key features and programs of high schools in New York City that cater to students with specific interests or career goals?",
+            "I need information on high schools in New York City that offer unique academic and extracurricular opportunities like film and music production.",
+            "Which high schools in New York City provide specialized programs or themes for students interested in fields like health sciences, arts, or technology?",
+            "Can you provide a list of high schools in New York City that focus on specific career paths or academic themes?",
+            "What are the high schools in New York City that offer specialized programs or themes such as health sciences, arts, or technology, and how do they prepare students for future careers?"
+        ]
+    },
+    "2015-16_Demographic_Data_-_Grades_K-8_District.csv": {
+        "natural_language_queries": [
+            "What are the school enrollment statistics for various districts and student categories?",
+            "Can you provide data on student demographics, including ethnicity, gender, and socioeconomic status in schools?",
+            "Where can I find information on academic performance and test scores for different student categories in school districts?",
+            "What datasets are available for analyzing trends and patterns in student enrollment and academic performance?",
+            "I need data on school enrollment and test scores to inform education policy and resource allocation. What datasets are available?",
+            "Where can I find comprehensive data on student demographics, enrollment, and academic performance in different districts?",
+            "What datasets can help identify areas of improvement and track progress in student enrollment and academic performance?",
+            "Can you provide datasets on student demographics, enrollment, and test scores for various districts and categories?",
+            "I am looking for data on school enrollment, demographics, and test scores for different student categories. What datasets are available?",
+            "Where can I find datasets that provide a comprehensive overview of student demographics, enrollment, and academic performance in various districts?"
+        ]
+    },
+    "2015-16_Guidance_Counselor_Post_Secondary_Planning.csv": {
+        "natural_language_queries": [
+            "What is the number of staff completing training in NYC schools during the 2015-16 school year?",
+            "Show me the data on staff training completion for schools in the 2015-16 academic year.",
+            "List the number of staff who completed training in each school for the 2015-16 school year in NYC.",
+            "Find the dataset of staff training completion in NYC schools for the 2015-16 academic year.",
+            "What are the staff training completion numbers for NYC schools during the 2015-16 school year?",
+            "Provide the dataset for staff training completion in various NYC schools for 2015-16.",
+            "I need the data on the number of staff completing training in NYC schools for 2015-16.",
+            "What are the staff training completion rates for NYC schools in the 2015-16 academic year?",
+            "Show me the dataset for the number of staff completing training in NYC schools in the 2015-16 school year.",
+            "Find the 2015-16 staff training completion numbers for schools in NYC."
+        ]
+    },
+    "2015-16_Guidance_Counselor_Reporting_-_Guidance_Counselor_Data.csv": {
+        "natural_language_queries": [
+            "What is the enrollment data for schools in a specific district?",
+            "Can you provide a dataset with school enrollment numbers and staff counts?",
+            "I need a dataset with student demographics and enrollment information for various schools.",
+            "Show me a dataset that includes full-time and part-time staff numbers in schools.",
+            "I'm looking for a dataset with bilingual programs and student enrollment ratios.",
+            "Do you have a dataset with school enrollment numbers and student demographics?",
+            "What is the data for schools with their enrollment, staff counts, and demographics?",
+            "I need a dataset with information on school enrollment and staffing levels.",
+            "Can you provide a dataset on student demographic and school enrollment trends?",
+            "I am searching for a dataset where I can find out about the staffing levels and student populations across different schools"
+        ]
+    },
+    "2015-16_Local_Law_15_Health_Data_-_K-12_Health_Instructors.csv": {
+        "natural_language_queries": [
+            "What is the number of teachers assigned to teach health in each school in a specific district?",
+            "How many health teachers are there in schools within a particular district?",
+            "Can I find data on the distribution of health education resources across different schools and districts?",
+            "Where can I get information about the number of health teachers in specific schools?",
+            "Is there a dataset that shows the number of teachers assigned to teach health in various schools?",
+            "How can I access information about health education resources across different schools and districts?",
+            "What is the number of health teachers in each school in a specific district?",
+            "Can I find a dataset with the number of teachers assigned to teach health in different schools?",
+            "Where can I get information on the distribution of health teachers in various schools and districts?",
+            "Is there a dataset available for analyzing the number of health teachers in schools within a specific district?"
+        ]
+    },
+    "2015-2016_Discharge_Reporting_School_Level_-_HS.csv": {
+        "natural_language_queries": [
+            "Find the dataset that shows student drop out and discharge rates from New York City schools",
+            "Where can I find data on student drop out and discharge rates by school in NYC?",
+            "Dataset for student drop out and discharge rates in New York City schools",
+            "Show me the dataset that has information on students who dropped out or were discharged from NYC schools",
+            "New York City school student discharge and drop out data",
+            "Dataset for the number of students who dropped out or were discharged from each school in NYC",
+            "Student outcomes dataset for New York City schools",
+            "Find the dataset that contains information on student drop out and discharge rates by school in NYC",
+            "New York City schools student drop out and discharge rates dataset",
+            "Dataset for student discharge and drop out trends in New York City schools"
+        ]
+    },
+    "2015-2016_Local_Law_14_Health_Data_-_HS_City_Council_District.csv": {
+        "natural_language_queries": [
+            "What is the number of students enrolled in grades 9-12 by city council district?",
+            "How many students are in grades 9-12 in each city council district?",
+            "What is the student enrollment in grades 9-12 for each city council district?",
+            "Can you provide the student count in grades 9-12 for different city council districts?",
+            "What are the student numbers for grades 9-12 across various city council districts?",
+            "How does the enrollment of students in grades 9-12 vary by city council district?",
+            "What is the breakdown of students in grades 9-12 by city council district?",
+            "How many students are there in grades 9-12 in each city council district over different time periods?",
+            "What are the statistics on student enrollment in grades 9-12 for each city council district?",
+            "Can you show the data on student enrollment in grades 9-12 segmented by city council district?"
+        ]
+    },
+    "2015_-_2016_Guidance_Counselor_Report.csv": {
+        "natural_language_queries": [
+            "What is the enrollment data for schools in New York City?",
+            "Where can I find statistics on school demographics in New York City?",
+            "What datasets are available for analyzing school enrollments in New York City?",
+            "I need data on the number of full-time and part-time staff in New York City schools.",
+            "Can I get a dataset on the total number of students and teachers in New York City schools?",
+            "What information is available on schools that serve more than one location in New York City?",
+            "I am looking for a dataset on bilingual programs in New York City schools.",
+            "Where can I find data on the ratio of teachers to students in New York City schools?",
+            "What datasets are available for comparing staffing details across different schools in New York City?",
+            "I need a dataset on the school statistics in New York City, including enrollment and staffing details."
+        ]
+    },
+    "2016-17_Co-Location_Reporting.csv": {
+        "natural_language_queries": [
+            "What is the dataset for school enrollment, demographic breakdowns, and test scores?",
+            "Where can I find data on school performance, demographics, and enrollment numbers?",
+            "Is there a dataset that includes information about various schools, including enrollment, demographics, and test scores?",
+            "What dataset provides data on school performance, enrollment, and demographic breakdowns?",
+            "Where can I access a dataset with information about school enrollment, demographics, and test scores?",
+            "Is there a dataset that tracks school performance, demographic breakdowns, and enrollment numbers over time?",
+            "What dataset contains information about school enrollment, demographic breakdowns, and test scores?",
+            "Where can I find a dataset with data on school performance, enrollment, and demographic breakdowns?",
+            "Is there a dataset that includes information about various schools, including enrollment, demographics, and test scores?",
+            "What dataset provides data on school performance, enrollment, and demographic breakdowns?"
+        ]
+    }
+}
